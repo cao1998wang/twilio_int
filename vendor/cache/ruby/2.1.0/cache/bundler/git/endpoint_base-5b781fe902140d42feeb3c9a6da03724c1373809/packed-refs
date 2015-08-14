@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled 
+b1f19b1d9a2c4310535dff5f4664acda55f9397f refs/heads/add-messages
+8dc7c2d58325bc7bead32de0698064a3a1b1f21d refs/heads/add-or-merge-value
+b3077af5b54ba18ed47bdbef01395b0027ad6637 refs/heads/master
+ace2dda3635f55346ced304884e561bb95046ca6 refs/heads/notifications
+d16ac97dd6d44520ab4abbb6c339a3397911246c refs/heads/support-other-sinatra-mount-points
+2a9d35f57854c55f634f415e5520551584e00d58 refs/heads/v5
+444d923469227ed0964c3bee4264c36ed360af4e refs/tags/v0.0.1
+^ebcfb9bf19b8602489ba81fc18b9105fe1308cf7
+c57b6eeb484c415661dad07773ff3a4886f36821 refs/tags/v0.0.2
+^0a3dc0981cdd66d04ea50c30a317934516ed0591
+3fd600b073a4d9c34edec37bde747535e2b84d71 refs/tags/v0.1.0
+^7d0f8924d7fa7e666598166f12a1f76561b2ae30
+65fbce24dfce8ee9705967aac4f3c5d293c5f952 refs/tags/v0.1.1
+^2a9d35f57854c55f634f415e5520551584e00d58
+a0f1a1f1db5a4db9a2ff8f944e80b5e2bfbf2115 refs/tags/v0.2
